@@ -1,19 +1,19 @@
-# Bookstore RESTful API – Java JAX-RS
+# 📚 Bookstore RESTful API – Java JAX-RS
 
-## Introduction
+## 🚀 Introduction
 
 This is a RESTful API for a Bookstore application developed using **Java with JAX-RS (`javax.ws.rs`)**. The API allows managing books, authors, customers, shopping carts, and orders. It follows RESTful principles and uses **in-memory storage** (no database) for data management.
 
 ---
 
-## Setup Instructions
+## ⚙️ Setup Instructions
 
-###  Requirements
+###  🔗 Requirements
 - **Java 17** or higher  
 - **NetBeans IDE** (recommended)  
 - **Postman** for API testing  
 
-###  Running the Project
+###  ✅ Running the Project
 1. Open the project folder in NetBeans.  
 2. Right-click the project → **Run**.  
 3. Test the API using Postman at:  http://localhost:8080/BookstoreAPI/webresources
@@ -36,7 +36,7 @@ Supports standard HTTP methods:
 ---
 
 
-## Technologies Used
+## 📂 Technologies Used
 
 - Java with JAX-RS (`javax.ws.rs`)  
 - JSON for request/response  
